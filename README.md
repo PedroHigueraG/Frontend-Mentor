@@ -9,6 +9,11 @@ In this repository I'll do the frontend mentor challenge, which consists in make
 Each challenge will be made with HTML, CSS, Javascript and APIs if is needed
 
 ## Newbie
+
+| Challenge | Title | Tools |
+| --------- | :---: | ----: |
+| Challenge 1 | Stats preview card component | HTML CSS |
+
 ## Junior
 ## Intermediate
 ## Advanced
