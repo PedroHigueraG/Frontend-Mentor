@@ -10,9 +10,9 @@ Each challenge will be made with HTML, CSS, Javascript and APIs if is needed
 
 ## Newbie
 
-| Challenge | Title | Tools |
-| --------- | :---: | ----: |
-| Challenge 1 | Stats preview card component | HTML CSS |
+| Challenge | Title | Tools | Links |
+| :-------: | :---: | :---: | :---: | 
+| Challenge 1 | Stats preview card component | HTML CSS | [code](https://github.com/PedroHigueraG/Stats-preview-card-component) [view](https://pedrohiguerag.github.io/Stats-preview-card-component/) |
 
 ## Junior
 ## Intermediate
