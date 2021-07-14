@@ -12,7 +12,7 @@ Each challenge will be made with HTML, CSS, Javascript and APIs if is needed
 
 | Challenge | Title | Tools | Links |
 | :-------: | :---: | :---: | :---: | 
-| Challenge 1 | Stats preview card component | HTML CSS | [code](https://github.com/PedroHigueraG/Stats-preview-card-component) [view](https://pedrohiguerag.github.io/Stats-preview-card-component/) |
+| Challenge 1 | Stats preview card component | HTML CSS | [code](https://github.com/PedroHigueraG/Stats-preview-card-component) - [view](https://pedrohiguerag.github.io/Stats-preview-card-component/) |
 
 ## Junior
 ## Intermediate
